@@ -4,8 +4,6 @@ An AI-powered tool that evaluates job candidates based on **skills rather than C
 
 This project is designed to support modern **skills-based hiring**, helping recruiters quickly understand whether a candidate is actually a good fit for a role.
 
----
-
 ## What This Project Does
 
 The AI Candidate Fit Analyzer compares:
@@ -21,7 +19,6 @@ The AI Candidate Fit Analyzer compares:
 - Strengths and risks
 - Final hiring recommendation
 
----
 
 ## Why This Matters
 
@@ -38,7 +35,6 @@ It demonstrates how AI can improve hiring decisions by:
 - Improving consistency in evaluation
 - Supporting skills-based hiring frameworks
 
----
 
 ## Key Features
 
@@ -58,15 +54,12 @@ Focuses on real capabilities instead of CV metadata.
 ### LLM Integration
 Built using OpenAI API for reasoning and structured evaluation.
 
----
-
-## 🛠️ Tech Stack
+## Tech Stack
 
 - Python  
 - Streamlit (UI layer)  
 - OpenAI API (LLM engine)  
 
----
 
 ## Installation
 
