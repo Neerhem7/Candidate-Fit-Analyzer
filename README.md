@@ -69,7 +69,14 @@ Clone the repository:
 git clone https://github.com/yourusername/ai-candidate-fit.git
 cd ai-candidate-fit
 pip install -r requirements.txt
-Create a .streamlit/secrets.toml file:
+
+```
+
+## Create a .streamlit/secrets.toml file:
+```bash id="k3v9pl"
 OPENAI_API_KEY = "your-api-key-here"
-Then Run:
+```
+## Then Run:
+```bash id="k3v9pl"
 streamlit run app.py
+```
