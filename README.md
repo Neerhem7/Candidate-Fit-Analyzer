@@ -3,7 +3,8 @@
 An AI-powered tool that evaluates job candidates based on **skills rather than CV signals like titles or years of experience**.
 
 This project is designed to support modern **skills-based hiring**, helping recruiters quickly understand whether a candidate is actually a good fit for a role.
-Link: https://candidate-fit-analyzer-bo6thxhngldzu4qnjs53tp.streamlit.app/
+Live Link: https://candidate-fit-analyzer-bo6thxhngldzu4qnjs53tp.streamlit.app/
+Github Link: https://github.com/Neerhem7/Candidate-Fit-Analyzer
 
 
 ## What This Project Does
@@ -68,7 +69,7 @@ Built using OpenAI API for reasoning and structured evaluation.
 Clone the repository:
 
 ```bash id="k3v9pl"
-git clone https://github.com/yourusername/ai-candidate-fit.git
+git clone https://github.com/Neerhem7/Candidate-Fit-Analyzer
 cd ai-candidate-fit
 pip install -r requirements.txt
 
