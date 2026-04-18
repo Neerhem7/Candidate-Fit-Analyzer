@@ -3,6 +3,8 @@
 An AI-powered tool that evaluates job candidates based on **skills rather than CV signals like titles or years of experience**.
 
 This project is designed to support modern **skills-based hiring**, helping recruiters quickly understand whether a candidate is actually a good fit for a role.
+Link: https://candidate-fit-analyzer-bo6thxhngldzu4qnjs53tp.streamlit.app/
+
 
 ## What This Project Does
 
